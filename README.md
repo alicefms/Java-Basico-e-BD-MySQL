@@ -1,5 +1,1 @@
-# Capacitação Capgemini Turma C
-
-Esse projeto irá servir para a capacitação da Turma C, de desenvolvedoras da Capgemini.
-
-Estamos aprendendo os comandos do Git.
+Repositório criado com arquivos criados durante estudos em Java básico e Banco de dados.
